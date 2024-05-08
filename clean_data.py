@@ -1,6 +1,7 @@
 import pandas as pd
 
 # reading the dataset using pandas
+
 dataset = pd.read_csv('imdb_top_1000.csv')
 
 # filling the missing values
